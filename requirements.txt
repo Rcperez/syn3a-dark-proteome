@@ -1,0 +1,8 @@
+biopython>=1.81
+pandas>=2.0
+requests>=2.31
+anthropic>=0.20
+transformers>=4.51
+accelerate>=0.30
+torch>=2.0
+goatools>=1.4
